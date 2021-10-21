@@ -1,0 +1,16 @@
+C:\az204\myApp\bin\Debug\net5.0\myApp.exe
+C:\az204\myApp\bin\Debug\net5.0\myApp.deps.json
+C:\az204\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+C:\az204\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+C:\az204\myApp\bin\Debug\net5.0\myApp.dll
+C:\az204\myApp\bin\Debug\net5.0\ref\myApp.dll
+C:\az204\myApp\bin\Debug\net5.0\myApp.pdb
+C:\az204\myApp\obj\Debug\net5.0\myApp.csproj.AssemblyReference.cache
+C:\az204\myApp\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\az204\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+C:\az204\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+C:\az204\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+C:\az204\myApp\obj\Debug\net5.0\myApp.dll
+C:\az204\myApp\obj\Debug\net5.0\ref\myApp.dll
+C:\az204\myApp\obj\Debug\net5.0\myApp.pdb
+C:\az204\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
